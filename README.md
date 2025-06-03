@@ -1,9 +1,3 @@
-# Movies-Shows-Recommendation-System
-
-Here's a complete `README.md` tailored for your **Movie/TV Recommendation System** project based on the uploaded notebook:
-
----
-
 # 🎬 Movie & TV Show Recommendation System
 
 This project implements a **Recommendation System** that suggests movies and TV shows to users based on different filtering techniques. It utilizes a hybrid approach combining **content-based filtering** and **collaborative filtering** to enhance recommendation accuracy and user personalization.
